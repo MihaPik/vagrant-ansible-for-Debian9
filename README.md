@@ -15,7 +15,7 @@ Using ansible_local (playbook.yml) the following actions are performed:
  
 -----------------------------------------------------------------------------------
 
- - php5.6 - (there is no repository, after adding repository it gives a 403 error)
+ - php5.6 - (there is no repository for Debian9, after adding repository it gives a 403 error)
 
 -----------------------------------------------------------------------------------
              
